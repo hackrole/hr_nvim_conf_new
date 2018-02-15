@@ -1,0 +1,56 @@
+- repo: Shougo/unite.vim
+- repo: basyura/unite-firefox-bookmarks
+- repo: liquidz/unite-bookmark-file
+- repo: Shougo/neomru.vim
+- repo: Shougo/denite.nvim
+
+# main tools
+- repo: scrooloose/nerdtree
+- repo: ivalkeen/nerdtree-execute
+- repo: mortonfox/nerdtree-iterm
+- repo: scrooloose/nerdcommenter
+- repo: majutsushi/tagbar
+- repo: tpope/vim-surround
+- repo: jaredpar/EasyMotion
+- repo: tommcdo/vim-exchange
+- repo: tpope/vim-scriptease
+- repo: foursking/vim-doc-cn
+- repo: flazz/vim-colorschemes
+- repo: dhruvasagar/vim-dotoo
+- repo: jceb/vim-orgmode
+- repo: Shougo/vimfiler.vim
+
+# vim unittest
+- repo: h1mesuke/vim-unittest
+- repo: kana/vim-vspec
+
+# misc
+- repo: hecal3/vim-leader-guide
+- repo: vim-scripts/genutils
+- repo: vim-scripts/grep.vim
+- repo: tpope/vim-fugitive
+- repo: mileszs/ack.vim
+- repo: vim-scripts/TaskList.vim
+- repo: bolasblack/gtrans.vim
+- repo: vim-scripts/TagmaTasks
+- repo: bling/vim-airline
+# nyaovim UI plugins
+- repo: rhysd/nyaovim-markdown-preview
+- repo: rhysd/nyaovim-mini-browser
+
+# lang
+- repo: neomake/neomake
+- repo: c-brenn/phoenix.vim
+- repo: tpope/vim-projectionist
+- repo: ludovicchabant/vim-gutentags
+- repo: Rykka/riv.vim
+- repo: mattn/emmet-vim
+- repo: godlygeek/tabular
+- repo: plasticboy/vim-markdown
+- repo: lepture/vim-jinja
+- repo: Sirver/ultisnips
+- repo: jiangmiao/auto-pairs
+- repo: vim-scripts/Python-mode-klen
+- repo: scrooloose/syntastic
+- repo: dgryski/vim-godef
+- repo: Blackrush/vim-gocode

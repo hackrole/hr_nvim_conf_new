@@ -1,0 +1,5 @@
+colorscheme tabula
+ colorscheme gruvbox
+" colorscheme desert
+
+let g:unite_bookmark_file=expand("~/.config/nvim/bookmark/default")

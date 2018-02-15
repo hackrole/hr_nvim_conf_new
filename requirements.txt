@@ -1,0 +1,4 @@
+# please use python3.6 or higher
+invoke==0.22.1
+msgpack==0.5.4
+neovim==0.2.1

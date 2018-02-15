@@ -1,3 +1,7 @@
+# ignore vim plugins
+/plugged/
+!/plugged/.gitkeeper
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
